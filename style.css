@@ -1,0 +1,398 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.conteiner{
+    width: 100%;
+}
+.navbar{
+    width: 80%;
+    display: flex;
+   margin: auto;
+    height: 10vh;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.middle{
+    margin-left: 60%;
+}
+.middle ul{
+    display: flex;
+list-style: none;
+gap: 30px;
+}
+.middle ul li a{
+text-decoration: none;
+color: black;
+font-size: 20px;
+font-weight: 400;
+}
+.but:hover{
+    background-color: #A6A6A6;
+}
+.but{
+    padding: 15px 40px;
+    background-color: #000000;
+    color: white;
+    border-radius: 20px;
+}
+.left{
+    display: flex;
+}
+#loc{
+    font-size: 40px;
+}
+.undernavbar{
+width: 80%;
+margin: auto;
+text-align: center;
+margin-top: 50px;
+}
+.bar{
+    display: flex;
+    gap: 50px;
+    justify-content: center;
+    margin-top: 30px;
+}
+.undernavbar h6{
+    font-weight: 400;
+font-size: 16px;
+color: #A6A6A6;
+}
+.same{
+    font-weight: 400;
+font-size: 64px;
+text-align: center;
+color: #000000;
+}
+.localli{
+    margin-top: 30px;
+    font-weight: 400;
+font-size: 16px;
+text-align: center;
+color: #212529;
+line-height: 1.5;
+font-size: 25px;
+}
+.locallii{
+    margin-top: 10px;
+}
+.tree{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+    font-weight: 400;
+font-size: 16px;
+color: #686868;
+margin-top: 70px;
+}
+.photorectengel img{
+  position: relative;
+  left: 18%;
+  margin-top: 50px;
+}
+
+#intreoduce{
+    font-weight: 400;
+font-size: 16px;
+color: #A6A6A6;
+text-align: center;
+margin-top: 50px;
+}
+#operates{
+    text-align: center;
+    font-weight: 400;
+font-size: 61px;
+color: #000000;
+}
+#neig{
+    margin-right: 28%;
+}
+.photo2{
+    position: relative;
+    left: 30%;
+    margin-top: 50px;
+    margin-bottom: 100px;
+}
+
+
+.conteiner2{
+    width: 100%;
+    height: 80vh;
+    background: #FAFAFA;
+border-radius: 0px;
+}
+.how{
+    font-weight: 400;
+font-size: 16px;
+text-align: center;
+color: #A6A6A6;
+position: relative;
+top: 30px;
+}
+.same1{
+    margin-top: 30px;
+    font-weight: 400;
+    font-size: 61px;
+    text-align: center;
+}
+.disflex{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-evenly
+}
+.treefoto{
+    width: 25%;
+    margin-top: 150px;
+}
+.connect{
+    margin-top: 10px;
+    font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+color: #000000;
+}
+.our{
+    margin-top: 20px;
+    font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+color: #212529;
+}
+.custom{
+    font-weight: 400;
+font-size: 61px;
+line-height: 73px;
+color: #000000;
+
+}
+.thodisplayflex{
+    display: flex;
+    justify-content: center;
+    justify-content: space-between;
+    margin: 0 115px;
+    
+}
+.conteiner3{
+    width: 100%;
+    height: 50vh;
+    margin-top: 100px;
+}
+.but1{
+    margin-top: 30px;
+    padding: 15px 40px;
+    background-color: #000000;
+    color: white;
+    border-radius: 20px;
+}
+
+
+.conteiner4{
+    width: 100%;
+    height: 100vh;
+    background-color: #FAFAFA;
+
+}
+.lableblock{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-around;
+}
+.textrightlable{
+    margin-top: 300px;
+    font-weight: 400;
+font-size: 20px;
+color: #000000;
+margin-right: 300px;
+}
+.lableleft img{
+    position: relative;
+    left: 170px;
+    width: 110%;
+    top: 200px;
+}
+#Affordable{
+    font-weight: 400;
+font-size: 80px;
+
+}
+.the{
+    font-weight: 400;
+font-size: 25px;
+line-height: 1.5;
+color: #212529;
+}
+.conteiner5{
+    width: 100%;
+    height: 100vh;
+}
+.textoro{
+    text-align: center;
+    margin-top: 50px;
+}
+#ex{
+    font-weight: 400;
+font-size: 61px;
+color: #000000;
+
+}
+.is{
+    font-weight: 400;
+font-size: 20px;
+color: #212529;
+margin-top: 20px;
+}
+.surat img{
+    position: relative;
+    left: 25%;
+}
+#freq{
+    text-align: center;
+    font-weight: 400;
+font-size: 61px;
+color: #000000;
+margin-top:100px;
+}
+.buton{
+    align-items: center;
+    text-align: center;
+    
+   
+}
+.fast1{
+    padding: 20px 148px;
+    text-align: start;
+    text-align: center;
+    font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+color:  #000000;
+border-top: none;
+border-left: none;
+border-right: none;
+background-color: white;
+
+}
+.fast2{
+    padding: 20px 100px;
+    text-align: start;
+    text-align: center;
+    font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+color:  #000000;;
+border-top: none;
+border-left: none;
+border-right: none;
+background-color: white;
+}
+.fast3{
+    padding: 20px 94px;
+    text-align: start;
+    text-align: center;
+    font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+color:  #000000;
+border-top: none;
+border-left: none;
+border-right: none;
+background-color: white;
+}
+.fast4{
+    padding: 20px 28px;
+    text-align: start;
+    text-align: center;
+    font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+color:  #000000;;
+border-top: none;
+border-left: none;
+border-right: none; 
+background-color: white;
+}
+.fast5{
+    padding: 20px 189px;
+    text-align: start;
+    text-align: center;
+    font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+color:  #000000;
+border-top: none;
+border-left: none;
+border-right: none;
+background-color: white;
+}
+.s{
+    width: 80%;
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    margin: auto;
+    margin-top: 200px;
+background: #FBFBFB;
+border-radius: 25px;
+height: 60vh;
+align-items: center;
+}
+#get{
+    font-weight: 400;
+font-size: 61px;
+color: #000000;
+
+}
+.grow{
+    font-weight: 400;
+font-size: 20px;
+color: #212529;
+margin-top: 15px;
+}
+.buts{
+    margin-top: 15px;
+    padding: 15px 40px;
+    background-color: #000000;
+    color: white;
+    border-radius: 20px;
+}
+.conteiner6{
+width: 80%;
+margin: auto;
+height: 20%;
+
+}
+.rostohir{
+    margin-top: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    justify-content: space-between;
+}
+.links{
+    color: #A6A6A6;
+    font-weight: 400;
+font-size: 15px;
+}
+.lefti3{
+    margin-left: 200px;
+    position: relative;
+    right: 100px;
+}
+.lefti2{
+    margin-left: 500px;
+}
+.but1:hover{
+    background-color: #A6A6A6;
+}
+.fast:hover{
+background-color: #A6A6A6;
+}
+.but1:hover{
+    background-color: #A6A6A6;
+
+}
